@@ -1,0 +1,945 @@
+{
+  "project_info": {
+    "project_number": "743363616390",
+    "firebase_url": "https://tutorialsloop.firebaseio.com",
+    "project_id": "tutorialsloop",
+    "storage_bucket": "tutorialsloop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:87594b8b0845f7f7",
+        "android_client_info": {
+          "package_name": "com.devosha.firestorecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:cff6dc133f0a73fa",
+        "android_client_info": {
+          "package_name": "info.camposha.firebase_auth_database_listview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:1e4c76b41043d628",
+        "android_client_info": {
+          "package_name": "info.camposha.firebase_public_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:60fd3906a628d592",
+        "android_client_info": {
+          "package_name": "info.camposha.firebasedb_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:9b84f75ae65c7968",
+        "android_client_info": {
+          "package_name": "info.camposha.firebaseimagestextmvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-491t5u01cfvvs0qletjh58jam42pnpu3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.camposha.firebaseimagestextmvvm",
+            "certificate_hash": "bb76eb7d08f65e22648e4687bef2a3b4bcf7f259"
+          }
+        },
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:37521e4828ec5c67",
+        "android_client_info": {
+          "package_name": "info.camposha.firebaselastaddeditem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:c0b90bb9e4d02c53",
+        "android_client_info": {
+          "package_name": "info.camposha.firebaselistviewimagestext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:5141ea3f0111a5a9",
+        "android_client_info": {
+          "package_name": "info.camposha.firebaselistviewscroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:1b5767352db1828b",
+        "android_client_info": {
+          "package_name": "info.camposha.firebasemvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-mo3j96e0fa4ta9pn4th6e965tpjg99bg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.camposha.firebasemvvm",
+            "certificate_hash": "bb76eb7d08f65e22648e4687bef2a3b4bcf7f259"
+          }
+        },
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:db740ea5911324d9",
+        "android_client_info": {
+          "package_name": "info.camposha.firebasemvvmfullcrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-1r949ejs5oaesom7mm8aru1ifuafil2i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.camposha.firebasemvvmfullcrud",
+            "certificate_hash": "bb76eb7d08f65e22648e4687bef2a3b4bcf7f259"
+          }
+        },
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:c1f787249a1335b7",
+        "android_client_info": {
+          "package_name": "info.camposha.firebaserecyclerdb_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:d3c8269c8e5c1240",
+        "android_client_info": {
+          "package_name": "info.camposha.firebaserecyclerimagesuploaddownload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:f15138b8027d667c",
+        "android_client_info": {
+          "package_name": "info.camposha.firebaserecyclerviewcrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:f3463b7af06e8af0",
+        "android_client_info": {
+          "package_name": "info.camposha.firebasesearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-p8erb187tun9ehggu711ra97t8b5jreg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.camposha.firebasesearch",
+            "certificate_hash": "bb76eb7d08f65e22648e4687bef2a3b4bcf7f259"
+          }
+        },
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:b95dd8ed924e1a5f",
+        "android_client_info": {
+          "package_name": "info.camposha.firebasesimplegridviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:a71ddee18f946356",
+        "android_client_info": {
+          "package_name": "info.camposha.firebasesimplelistview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:fc0ec124e3724129",
+        "android_client_info": {
+          "package_name": "info.camposha.firebasesimplelistviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:9f09868e4431b139",
+        "android_client_info": {
+          "package_name": "info.camposha.firebasesimplerecyclerviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:dc91801b96362c72",
+        "android_client_info": {
+          "package_name": "info.camposha.firebaseuserauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:3f4112f3a9c95da5",
+        "android_client_info": {
+          "package_name": "info.camposha.firegridimages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:bd350b0e6ec9d364",
+        "android_client_info": {
+          "package_name": "info.camposha.mr_firebase_listview_images_text_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:593c263ffe249149",
+        "android_client_info": {
+          "package_name": "info.camposha.mr_firebase_sign_up_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:d5ea87428c75c2e2",
+        "android_client_info": {
+          "package_name": "info.camposha.mr_firebaseui_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:21cf0faa672158ac",
+        "android_client_info": {
+          "package_name": "info.camposha.mrfirebase_authui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:6a8b4e750a761d05",
+        "android_client_info": {
+          "package_name": "info.camposha.mvvmfirebasecrudcache"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-e25luqoejk29lld9sarkvsqi8k59ac7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.camposha.mvvmfirebasecrudcache",
+            "certificate_hash": "bb76eb7d08f65e22648e4687bef2a3b4bcf7f259"
+          }
+        },
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:a11413117e8875e8",
+        "android_client_info": {
+          "package_name": "info.camposha.mvvmfirebasecrudroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-4ng305ndo9avdasvvmf0c4f9seclmps9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.camposha.mvvmfirebasecrudroom",
+            "certificate_hash": "bb76eb7d08f65e22648e4687bef2a3b4bcf7f259"
+          }
+        },
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:7c5037d59e980978",
+        "android_client_info": {
+          "package_name": "info.camposha.ums_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:badb7fad8e2d5b47",
+        "android_client_info": {
+          "package_name": "info.camposha.usermanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-fha0frdsoad4pcv7qijqjtlf32jj941m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.camposha.usermanagement",
+            "certificate_hash": "bb76eb7d08f65e22648e4687bef2a3b4bcf7f259"
+          }
+        },
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:feaa9b96c655385c",
+        "android_client_info": {
+          "package_name": "info.camposha.whatsappv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-9dhcd19o1f6pnp2b0dl7e66nlffua3uv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.camposha.whatsappv1",
+            "certificate_hash": "bb76eb7d08f65e22648e4687bef2a3b4bcf7f259"
+          }
+        },
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743363616390:android:24ffaf2302054cda",
+        "android_client_info": {
+          "package_name": "info.tutorialsloop.hp.firebasesimplegridview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILBgn2Ba0XhRW5yRYSrXs2839gSJHBPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743363616390-31i1q1q7k53shfroe57g6d7rsks1tmso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
